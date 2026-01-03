@@ -10,6 +10,7 @@ __pycache__/
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+mkt_example_df_generator.ipynb
 
 # Archivos de datos muy grandes (opcional)
 # Si no quieres subir archivos .sqlite o .db pesados:
