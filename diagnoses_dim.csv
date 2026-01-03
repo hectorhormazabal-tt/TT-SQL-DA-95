@@ -1,0 +1,16 @@
+icd10_id,diagnosis_name,medical_specialty,risk_score,is_contagious,avg_recovery_weeks
+ICD-101,Acute Myocardial Infarction,Cardiology,9,0,12
+ICD-102,Hypertensive Crisis,Cardiology,7,0,2
+ICD-103,Bacterial Pneumonia,Respiratory,6,1,4
+ICD-104,Acute Bronchitis,Respiratory,3,1,2
+ICD-105,Pulmonary Tuberculosis,Respiratory,8,1,24
+ICD-106,Femur Fracture,Traumatology,5,0,8
+ICD-107,Hip Fracture,Traumatology,7,0,16
+ICD-108,Ankle Sprain,Traumatology,2,0,3
+ICD-109,Acute Appendicitis,Surgery,8,0,4
+ICD-110,Acute Gastroenteritis,Internal Medicine,3,1,1
+ICD-111,Cholecystitis,Surgery,6,0,4
+ICD-112,Type 2 Diabetes Mellitus,Endocrinology,7,0,52
+ICD-113,Urinary Tract Infection,Internal Medicine,3,0,1
+ICD-114,Common Flu,Internal Medicine,2,1,1
+ICD-115,General Check-up,Preventive Medicine,1,0,0
