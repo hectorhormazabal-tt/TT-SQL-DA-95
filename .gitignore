@@ -1,0 +1,18 @@
+cat <<EOF > .gitignore
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Carpetas de checkpoints de Colab/Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos muy grandes (opcional)
+# Si no quieres subir archivos .sqlite o .db pesados:
+*.db
+*.sqlite
+EOF
